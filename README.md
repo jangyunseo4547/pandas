@@ -8,3 +8,8 @@
 - pip freeze >> reauirements.txt : 현재 설치된 모듈 리스트 저장
 - pip install -r requirements.txt : reauirements.txt 기준으로 모듈 설치
  
+
+ # 2/24 (월)
+ - 00_numpy
+ - 01_datastructure
+ - 02_file_load_save
