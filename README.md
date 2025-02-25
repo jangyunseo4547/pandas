@@ -13,3 +13,8 @@
  - 00_numpy
  - 01_datastructure
  - 02_file_load_save
+
+ # 2/25 (화)
+ - 03_query
+ - 04_statistics
+ - 05+ missing_value
